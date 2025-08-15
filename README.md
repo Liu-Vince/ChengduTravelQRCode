@@ -33,7 +33,7 @@
 
 ## 📥 下载 & 安装
 
-获取快捷指令：[点击这里下载](https://www.icloud.com/shortcuts/bbabed20a1d1466782a19dca5684c1c6) 📥
+获取快捷指令：[点击这里下载](https://www.icloud.com/shortcuts/bbcae48f0ab745a5b6ba4953f4ef82d1) 📥
 
 获取快捷指令Cookie抓包
 开启抓包 → 进入天府市民云 → 首页 → 更多 → 交通旅游 → 扫码乘车 → 结束抓包 → 查看抓包记录找到tfsmy.chengdu.gov.cn域名请求头Cookie字段的值即为API Cookie（格式为TGT=开头）
